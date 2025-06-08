@@ -1,6 +1,5 @@
 𝐋𝚵𝚭𝐊𝐔𝐒𝚮-𝚻𝚳𝐃-𝐋𝚵𝚭𝐊𝐔𝐒𝚮-𝚻𝚳𝐃
 𝐋𝚵𝚭𝐊𝐔𝐒𝚮-𝚻𝚳𝐃-𝐋𝚵𝚭𝐊𝐔𝐒𝚮-𝚻𝚳𝐃
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/lezkush/LEZKUSH_TMD1&template=https://github.com/lezkush8/LEZKUSH_TMD1.git)***
 
 
 
@@ -2161,7 +2160,7 @@
 
 <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=blue&style=for-the-badge&logo=blue" width="180" height="43.45"/></a></p>
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/lezkush8/lezkush-bot"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Lezkushtech/LEZKUSH_TMD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
 
 <a href="https://wa.me/+255784766591-INFO"><img title="CONTACT-Elon" src="https://img.shields.io/badge/CONTACT-𝐋𝚵𝚭𝐊𝐔𝐒𝚮-𝚻𝚳𝐃?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
 
